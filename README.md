@@ -1,4 +1,14 @@
 # Getting Started with Create React App
+> Now that you're familiar with Rails and React, it's time to put them together in a new kind of 'Hello World!' app. This exercise is going to have you create a React front-end with a Rails back-end and connect them to display a random message.
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```sh
+  git clone https://github.com/kidde60/hello-react-front-end.git
+
+```
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -45,21 +55,6 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
 
@@ -68,3 +63,36 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## 👥 Author
+
+👤 **KIDDE GEORGE WILLIAM**
+
+- GitHub: [@githubhandle](https://github.com/kidde60)
+- Linkedin: [@linkedinhandle](https://www.linkedin.com/in/george-william-kidde/)
+- Twitter: [@twitterhandle](https://twitter.com/KGWilliam60)
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/kidde60/hello-react-front-end/issues).
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support
+
+If you like this project, you can give star this repo.
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments 
+
+I would like to thank microverse for supporting to do this project.
+
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
